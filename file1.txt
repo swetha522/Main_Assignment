@@ -1,1 +1,5 @@
+nkmkfm<<<<<<< HEAD
 hi
+=======
+Hi
+>>>>>>> first

@@ -1,1 +1,5 @@
+kndk<<<<<<< HEAD
 hi
+=======
+huuS
+>>>>>>> first
